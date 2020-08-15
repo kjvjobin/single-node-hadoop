@@ -150,7 +150,3 @@ start-dfs.sh
 jps
 start-yarn.sh
 jps
-
-
-
-
